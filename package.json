@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pork-tail/goit-node-hw.git"
+  },
+  "author": "yavorskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pork-tail/goit-node-hw/issues"
+  },
+  "homepage": "https://github.com/pork-tail/goit-node-hw#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "yargs": "^17.0.1"
+  }
+}
